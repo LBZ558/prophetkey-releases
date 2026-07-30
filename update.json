@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "pub_date": "2026-07-30T10:30:26Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.0.0/ProphetKey_1.0.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcFl5MXpNRDVUWDlUVzArTFZuMjRXK0Y3MThuUW5TRWNPY3hWYmZEUlZUSGRIa3dsMGlOQ0ZxQTFqVnR6aUpMKytvY0xzM3RQZ2RmMDhXNGJtcTlFU08zeER4V3hPQUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDEyOTEwCWZpbGU6UHJvcGhldEtleV8xLjAuMF94NjQtc2V0dXAuZXhlCnRIZFZDV1lUT05JL3J3RXZnUFpmRnZERmVxMHR0a3c2UnZsL1FycWlCeDZwa2xwcEMzODBQWFlvc2NpZU5LMEQxZ0VuN1ptVTZqZUlmcFVRZUhFN0JnPT0K"
+    }
+  }
+}
