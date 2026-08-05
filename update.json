@@ -1,11 +1,11 @@
 {
   "version": "1.1.1",
   "pub_date": "2026-08-05T00:00:00Z",
-  "notes": "Fixed blurry desktop/taskbar/tray icons (multi-size icon.ico) and made tray 'Show ProphetKey' reliably restore and focus the window.",
+  "notes": "Fixed icons (opaque, no-text), enabled devtools for diagnostics. Please reinstall to verify.",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.1.1/ProphetKey_1.1.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVWNJY2JNOTA5Mmc2RFUrYWZMVFFLeC90dlhJMTFjaWlIUm1aM1pWRGpxeU9aNkVNSnNLNi91R1Nkc2duWjFWR3h2ZVdRS3NMbU5mZ3BvQVBNbTJpeVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODY3OTU2CWZpbGU6UHJvcGhldEtleV8xLjEuMV94NjQtc2V0dXAuZXhlCjFNNnB0OGsrVVdkeFRpZUFubWZoYkxUcUdUZ2lPcENxeS9UR29sSEw4N3BBV3M5azIwaCtQNFRlRXRGamg1N1hNS2FYZHhuODZldk5mbGt6bkhCK0RnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVVNhYmY5SEdVb3hEdTBNQ21mZGo4VkxTUVR3UktMRGVpVkZFU2M2TlZheldrckx0TG1tTkp4MzI1NEIxYnJmRHdpKzVaRjNmN1BLOXZMMUdrbTl1WUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTQxNjc5CWZpbGU6UHJvcGhldEtleV8xLjEuMV94NjQtc2V0dXAuZXhlCjc1YkxFdUpYbmR4RkllSFVIYmZiaDgxc2pOTXgxelZvajMvb1hBbmtkSFcxaDcxeEQ1Qm8rYXA1WkdMMlR6Rmk5OE0wVEszU0wraGg0WXQ0ZGNrQ0NBPT0K"
     }
   }
 }
