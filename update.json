@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "pub_date": "2026-07-31T08:00:00Z",
-  "notes": "Cloud sync (WebDAV/Dropbox/OneDrive), import from 1Password & Bitwarden CSV, Leak Radar now included with Guardian+, pricing and tier updates",
+  "version": "1.1.1",
+  "pub_date": "2026-08-05T00:00:00Z",
+  "notes": "Fixed blurry desktop/taskbar/tray icons (multi-size icon.ico) and made tray 'Show ProphetKey' reliably restore and focus the window.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.1.0/ProphetKey_1.1.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcFl5MXpNRDVUWHd6bmY1OUFQaWt4bEo4V2VrYUtrMnlIdm8wVDJaeEVocTR3bG5BNnpPd1NYRzhZNERaYzhQWWQvVjJMTzdJQkxBSWN1Ky9vZXkyU0FCSjZBY2p4VVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDgxMzI1CWZpbGU6UHJvcGhldEtleV8xLjEuMF94NjQtc2V0dXAuZXhlClRmTTErL1c5MWpQRGE0N3gxcWVJYlJ4TExlMnVrUURrV0tVNW1TOFJ1N1J4ekhYM2dGc3Q4U3FUMUF2ZVFna2xOOVZRQUtYTkdQMFcxZWZwVEZ2bkN3PT0K"
+      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.1.1/ProphetKey_1.1.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVWNJY2JNOTA5Mmc2RFUrYWZMVFFLeC90dlhJMTFjaWlIUm1aM1pWRGpxeU9aNkVNSnNLNi91R1Nkc2duWjFWR3h2ZVdRS3NMbU5mZ3BvQVBNbTJpeVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODY3OTU2CWZpbGU6UHJvcGhldEtleV8xLjEuMV94NjQtc2V0dXAuZXhlCjFNNnB0OGsrVVdkeFRpZUFubWZoYkxUcUdUZ2lPcENxeS9UR29sSEw4N3BBV3M5azIwaCtQNFRlRXRGamg1N1hNS2FYZHhuODZldk5mbGt6bkhCK0RnPT0K"
     }
   }
 }
