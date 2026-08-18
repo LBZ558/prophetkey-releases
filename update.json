@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "pub_date": "2026-08-05T00:00:00Z",
-  "notes": "Fixed icons (opaque, no-text), enabled devtools for diagnostics. Please reinstall to verify.",
+  "version": "1.2.0",
+  "pub_date": "2026-08-17T00:00:00Z",
+  "notes": "\u65b0\u529f\u80fd\uff1a\u81ea\u52a8\u8f6e\u6362\u5f15\u64ce + \u6cc4\u6f0f\u96f7\u8fbe\u591a\u6e90\u5b9a\u65f6\u626b\u63cf\uff08GitHub/GitLab/GitGuardian HMSL\uff09+ \u5b89\u88c5\u5305\u5185\u5d4c WebView2 \u79bb\u7ebf\u5b89\u88c5 + \u6e05\u7406\u6b7b\u8d44\u4ea7\u51cf\u5c11\u5b89\u88c5\u5305\u4f53\u79ef",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.1.1/ProphetKey_1.1.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVVNhYmY5SEdVb3hEdTBNQ21mZGo4VkxTUVR3UktMRGVpVkZFU2M2TlZheldrckx0TG1tTkp4MzI1NEIxYnJmRHdpKzVaRjNmN1BLOXZMMUdrbTl1WUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTQxNjc5CWZpbGU6UHJvcGhldEtleV8xLjEuMV94NjQtc2V0dXAuZXhlCjc1YkxFdUpYbmR4RkllSFVIYmZiaDgxc2pOTXgxelZvajMvb1hBbmtkSFcxaDcxeEQ1Qm8rYXA1WkdMMlR6Rmk5OE0wVEszU0wraGg0WXQ0ZGNrQ0NBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVWJxRFNLcWN0bFdCZ2VQaTI2eFNwc1RNRmdHSkY3d3pGeDJrRlhSeDJHdGpZbjdJYitoeXhtU3VjaEpVNm1xQU1xWnZXREkvR3ZURjlKSDFzOU1jOHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODg2NzQ4CWZpbGU6UHJvcGhldEtleV8xLjIuMF94NjQtc2V0dXAuZXhlCkIwb011RDdiMDduREVhSUVVZGZISjc2cGVweHFpNDdjcEdOOEJRd1Q5cWlpbWRqaTRCUEcydzdGdFZGWWRSY1E2THpqa3NhclE5dnBBejhYL0FMQUF3PT0K",
+      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.2.0/ProphetKey_1.2.0_x64-setup.exe"
     }
   }
 }
