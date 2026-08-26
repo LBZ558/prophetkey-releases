@@ -4,7 +4,7 @@
   "notes": "Security hardening: bundle_decrypt bounds check, unhandled Promise rejections fixed, missing Tauri commands (app_exit, proxy_get_control_token, sync_vault_to_proxy, sync_vault_with_hd_vectors) implemented",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVQV2tkYkpHbjdXVmlMMkFFNHN6blNuRi9MRk5iWWViQitHTUpSMnlGQTFGa090MUJQci81cmM4QWhJcUJQSGUrWWVzVDAyTUdlaTFNVHlJcms3eTB3RytjS0h1TlRyUVRZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzE3NzE3CWZpbGU6UHJvcGhldEtleV8xLjIuMF94NjQtc2V0dXAuZXhlCjdnUTVBSEpYUkZDck9YeXJNSVhiUVRWWHN1cEtKeEozZG1tM25Vc0ZzdWNlUnMxT3JtcFFBVG42UEZ3bDA5UGtZSVFCVURXaGlLZjFyRVZSNzhNYURnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVVZpTDJBRTRTem5TbkYvTEZOYlplYkIrR01KUjJ5ZkExRmtPdDFCUHIvNXJjOEFhSXFCUEhlK1llc1QwMk1HZWkxTVR5SXJrN3kwN0QrY0tIdU5UclFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzE3NzE3CWZpbGU6UHJvcGhldEtleV8xLjIuMF94NjQtc2V0dXAuZXhlCjd0UTVBSEpYUkZDck9YeXJNSVhiUVRWWHN1cEtKeEozZG1tM25Vc0ZzdWNlUnMxT3JtcFFBVG42UEZ3bDA5UGtZSVFCVURXaGlLZjFyRVZSNzhNYURnPT0K",
       "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.2.0/ProphetKey_1.2.0_x64-setup.exe"
     }
   }
