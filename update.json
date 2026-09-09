@@ -1,11 +1,12 @@
 {
   "version": "1.2.0",
-  "pub_date": "2026-08-26T00:00:00Z",
-  "notes": "Security hardening: bundle_decrypt bounds check, unhandled Promise rejections fixed, missing Tauri commands (app_exit, proxy_get_control_token, sync_vault_to_proxy, sync_vault_with_hd_vectors) implemented",
+  "pub_date": "2026-09-09T14:54:00Z",
+  "notes": "v1.2.0 final: combo-chain security gate fully verified, honeypot defense, cost manager, i18n. Fix: TOTP pairing now persists to vault blob immediately; all Rust/frontend regression tests green (core 59, app 179).",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVVZpTDJBRTRTem5TbkYvTEZOYlplYkIrR01KUjJ5ZkExRmtPdDFCUHIvNXJjOEFhSXFCUEhlK1llc1QwMk1HZWkxTVR5SXJrN3kwN0QrY0tIdU5UclFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzE3NzE3CWZpbGU6UHJvcGhldEtleV8xLjIuMF94NjQtc2V0dXAuZXhlCjd0UTVBSEpYUkZDck9YeXJNSVhiUVRWWHN1cEtKeEozZG1tM25Vc0ZzdWNlUnMxT3JtcFFBVG42UEZ3bDA5UGtZSVFCVURXaGlLZjFyRVZSNzhNYURnPT0K",
-      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.2.0/ProphetKey_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVVN3N1U3SitTUkJSVWJDRG1sZFl2Q2g2UXRaUTRGb0RNVEFaVjFmcVYvVVRqNm9UT2MyT1Y3c2dhZGY4dG4xbG13NWRxUmsvSGdIRWtqUUtSVDhxWFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY0NzEyCWZpbGU6UHJvcGhldEtleV8xLjIuMF94NjQtc2V0dXAuZXhlCml0K2pkbVJkakRpeThVM1VtZXdDY0l0aFhSd2NFVWpYWTlJNksrRCtOL0MzSnRPUVVHdkZhYXMxazV3YmVZRDB5V20vTVcydnN1dmRMMHVaN0h3MkFnPT0K",
+      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.2.0/ProphetKey_1.2.0_x64-setup.exe",
+      "sha256": "cbb89a05f44622c5db8b7f6086041671f6a86106cf7c9181f6c87d7e82b6ac6e"
     }
   }
 }
