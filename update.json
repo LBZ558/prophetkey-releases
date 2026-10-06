@@ -7,6 +7,14 @@
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVWN2Y2RTUndFay9ZVHA4aTZBbmU4R2gwclFkcGF0YlVuOStXVy9UL2JxbjRIc2loZ2N5bVRUaEVnUkZGT0JHS0ErTElTRUFmWHc5a2ludUcyNHh1S1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg2NTE2CWZpbGU6UHJvcGhldEtleV8xLjMuMF94NjQtc2V0dXAuZXhlCitWRlFTUGU0VlpyRzNHVGd6QUIyc2w0RDRJeWpHUGZkajErN2ZRbXFLb0txVkJrU0JLMDA3Rmg5cXkxb2xXVzJLb3h5Y0RsbW5oa25WdDRvVWdPMUFnPT0K",
       "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.3.0/ProphetKey_1.3.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVWN2Y2RTUndFay9ZVHA4aTZBbmU4R2gwclFkcGF0YlVuOStXVy9UL2JxbjRIc2loZ2N5bVRUaEVnUkZGT0JHS0ErTElTRUFmWHc5a2ludUcyNHh1S1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg2NTE2CWZpbGU6UHJvcGhldEtleV8xLjMuMF94NjQtc2V0dXAuZXhlCitWRlFTUGU0VlpyRzNHVGd6QUIyc2w0RDRJeWpHUGZkajErN2ZRbXFLb0txVkJrU0JLMDA3Rmg5cXkxb2xXVzJLb3h5Y0RsbW5oa25WdDRvVWdPMUFnPT0K",
+      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.3.0/ProphetKey_1.3.0_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRV2tkYkpHbjdYVVdRc0pweTRsMFlVWEpjWVEwcWJsZE45Qkp6TGVKdUlsU1g0Vi9uSnBTY0thTDJ6NzFBUkw1NmlMaEdYYm1iRmdXYy92bGpDbFVocUI5bzZjdGJMUnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDg2NTE4CWZpbGU6UHJvcGhldEtleV8xLjMuMF94NjRfZW4tVVMubXNpCjcxVk9NRi82ZmFwR1RmMFZlWHpUWU8wLzR1NmJhdDJuK1R6WkdsMm1RaktEYjliRlBpSHlOR25EWmtNQldEd3NsZEFtaDYwN096SGVOcW40eExKQ0NnPT0K",
+      "url": "https://github.com/LBZ558/prophetkey-releases/releases/download/v1.3.0/ProphetKey_1.3.0_x64_en-US.msi"
     }
   }
 }
