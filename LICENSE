@@ -1,21 +1,14 @@
-MIT License
+Copyright (c) 2026 ProphetKey. All rights reserved.
 
-Copyright (c) 2026 ProphetKey
+This repository is PROPRIETARY. It is published only for distribution and
+discoverability of the ProphetKey MCP bridge. No permission is granted to
+copy, modify, merge, publish, distribute, sublicense, or sell any part of
+this material, nor to use it commercially, except as expressly set out in
+the ProphetKey End User License Agreement (EULA) shipped with the npm
+package "prophetkey-mcp" (EULA.md).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository is NOT open source. Versions 1.x of the npm package were
+previously distributed under the MIT license; that license does not apply
+to 2.0.0 or later.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Licensing terms and contact: https://www.prophetkey.com
